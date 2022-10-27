@@ -1,0 +1,15 @@
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\obj\Debug\net7.0\ДЗ Задача 50.csproj.AssemblyReference.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\obj\Debug\net7.0\ДЗ Задача 50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\obj\Debug\net7.0\ДЗ Задача 50.AssemblyInfoInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\obj\Debug\net7.0\ДЗ Задача 50.AssemblyInfo.cs
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\obj\Debug\net7.0\ДЗ Задача 50.csproj.CoreCompileInputs.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\bin\Debug\net7.0\ДЗ Задача 50.exe
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\bin\Debug\net7.0\ДЗ Задача 50.deps.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\bin\Debug\net7.0\ДЗ Задача 50.runtimeconfig.json
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\bin\Debug\net7.0\ДЗ Задача 50.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\bin\Debug\net7.0\ДЗ Задача 50.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\obj\Debug\net7.0\ДЗ Задача 50.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\obj\Debug\net7.0\refint\ДЗ Задача 50.dll
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\obj\Debug\net7.0\ДЗ Задача 50.pdb
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\obj\Debug\net7.0\ДЗ Задача 50.genruntimeconfig.cache
+C:\Users\Lenta\OneDrive\Рабочий стол\C#\ДЗ Задача 50\obj\Debug\net7.0\ref\ДЗ Задача 50.dll
